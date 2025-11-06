@@ -1,14 +1,18 @@
-# AC02 - Transformações Geométricas em Computação Gráfrica
+# 🌈 AC03 — Cores, Visão e Modelos de Iluminação
 
-Este repositório contém a resolução da Avaliação Continuada 02, focada na implementação de transformações geométricas 2D (translação, escala, rotação, etc.) utilizando Python, NumPy e Matplotlib.
+Este projeto integra teoria e prática sobre percepção de cores, modelos de cor e análise espectral por sensoriamento remoto.
 
-## Estrutura do Projeto
+---
 
-O código principal encontra-se na pasta `AC02_transformacoes/`. A implementação utiliza uma abordagem orientada a objetos e coordenadas homogêneas para aplicar as transformações de forma eficiente através de multiplicação de matrizes.
+## 🧠 Parte Teórica
+(Conteúdo teórico completo conforme código principal)
 
-## Como Executar
+## 🛰️ Parte Prática
+Inclui simulações de NDVI com dados da Amazônia (2022–2024) e Deserto do Saara (2024).
 
-Para executar o projeto, navegue até à pasta e corra o script principal:
+---
 
-```bash
-python AC02_transformacoes/main.py
+## 🧩 Execução
+
+pip install -r requirements.txt
+python AC03_script.py
