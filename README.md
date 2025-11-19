@@ -1,6 +1,7 @@
 AC02 — Modelagem e Transformações
 Conteúdo da AC02. 
-Inclui AP1 (exercício 1).
+Inclui AP1 (Desenho).
+Inclui AP2 (Animação).
 AC03 -  é um Jupyter Notebook que contém:
 
     Respostas teóricas.
